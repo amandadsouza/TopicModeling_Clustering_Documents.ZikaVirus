@@ -1,7 +1,11 @@
 Doutorado em Gestão e Organização do Conhecimento 
+
 Discipline: Representação Distribuídas de Texto e Modelagem de Tópicos
+
 Course: Data Mining and Modeling
+
 Professor: Renato Rocha Souza
+
 Topic: Modelling and Clustering documents
 
 This notebook is based on the following sources:
